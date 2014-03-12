@@ -369,6 +369,9 @@ button:hover {
 .block_updates {
   padding: 10px;
 }
+.block_updates .news-item, .block_updates .event {
+  margin: 50px 0;
+}
 .copy-introduction {
   font-size: 17px;
 }
